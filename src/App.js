@@ -3,7 +3,6 @@ import Header from './components/Header';
 import Profile from './components/Profile';
 import SideBar from './components/SideBar';
 import './Nullstyle.css';
-
 const App = ()=> {
     return (
       <div className="wrapper">
